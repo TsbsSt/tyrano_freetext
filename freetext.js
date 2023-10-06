@@ -2,7 +2,7 @@ TYRANO.kag.freetext = {
     //任意のHTML内でメッセージ風に表示する関数群
 
     config : {
-        is_adding_text: "false",
+        is_showing_message: "false",
         ch_speed: 30,
     },
 

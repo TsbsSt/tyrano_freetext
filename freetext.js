@@ -9,7 +9,6 @@ TYRANO.kag.freetext = {
     //実際に表示する関数
     //message: string 表示するテキスト
     //area: string 表示領域 HTML要素を指定
-
     show_message: function(message = "テスト", area = "#freetext") {
 
         //メッセージ表示中
